@@ -9,6 +9,8 @@ creator:
     gutenberg_agent_id: '5859'
     url: http://www.gutenberg.org/2009/agents/5859
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/15106#Origin-of-the-Anglo-Boer-War-Revealed--2nd-ed.-The-Conspiracy-of-the-19th-Century-Unmasked
 gutenberg_bookshelf: Boer War
 gutenberg_issued: '2005-02-18'
 gutenberg_type: Text
